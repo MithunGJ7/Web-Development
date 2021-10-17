@@ -1,4 +1,4 @@
-// **** Design & Developed By GOWTHAM TIRRI ***  //
+// **** Design & Developed By Mithun G ***  //
 
 
    // Gradient colors 
